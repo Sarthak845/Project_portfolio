@@ -15,11 +15,10 @@ export default function Hero() {
             Sarthak Rahate
           </h1>
           <h2 className="text-3xl md:text-4xl font-semibold text-cyan-400 mb-6">
-            Embedded Systems & Robotics Engineer
+            Mechatronics and Systems Engineer
           </h2>
           <p className="text-xl md:text-2xl text-slate-300 mb-12 leading-relaxed max-w-3xl mx-auto">
-            Building intelligent systems at the intersection of hardware and software.
-            Specializing in EV Powertrains, Autonomous Robotics, and Power Electronics.
+            Where logic meets motion.
           </p>
           <button
             onClick={scrollToProjects}

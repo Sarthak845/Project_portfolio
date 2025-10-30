@@ -8,7 +8,7 @@ export default function Projects() {
         <div className="text-center mb-16">
           <h2 className="text-5xl font-bold text-white mb-4">Projects</h2>
           <p className="text-slate-400 text-xl max-w-2xl mx-auto">
-            Explore my work across embedded systems, robotics, electric vehicles, and UAV technology
+            Explore my work across embedded systems, robotics, electric vehicles, and avionics technology
           </p>
         </div>
 
