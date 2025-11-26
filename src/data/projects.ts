@@ -237,6 +237,29 @@ export const categories: Category[] = [
     ]
   },
   {
+  id: 'simulink',
+  name: 'MATLAB Simulink & System Simulation',
+  description: 'High-fidelity modeling, digital twins, and system simulation projects',
+  projects: [
+    {
+      id: 'formula-e-digital-twin',
+      title: 'Formula E Gen3 Powertrain Digital Twin: A First Principles Approach',
+      description: 'Comprehensive physics based Digital Twin of Formula E Gen3 EV with 2RC Thevenin battery model, Field Oriented Control, and validated longitudinal dynamics.',
+      skills: ['System Modeling', 'Control Theory', 'Electro-Chemical Modeling', 'Vehicle Dynamics'],
+      tags: ['Digital Twin', 'FOC', 'Battery Modeling', 'Formula E', 'Vehical Modelling'],
+      isAward: false
+    },
+    {
+      id: 'ucav-simulation',
+      title: 'Autonomous 6-DOF UCAV Simulation with AI Mission Planning & Sensor Fusion',
+      description: 'End to end UCAV simulation with 6-DOF flight dynamics, AI mission planning, and military grade sensor fusion following defense industry standards.',
+      skills: ['6-DOF Dynamics', 'Sensor Fusion', 'PID Control', 'AI Mission Planning'],
+      tags: ['UCAV', 'Autonomous Systems', 'Defense', 'Sensor Fusion'],
+      isAward: false
+    }
+  ]
+},
+{
     id: 'theoretical',
     name: 'Theoretical & Conceptual Projects',
     description: 'AI, ADAS, and high-payload UAV concepts',
